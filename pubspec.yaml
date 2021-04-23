@@ -14,7 +14,7 @@ dependencies:
   path: ^1.6.2
   file: ^5.0.7
   archive: ^2.0.9
-  platform: ^2.2.0
+  platform: ^3.0.0
   process: ^3.0.9
   meta: ^1.1.6
   intl: ">=0.15.0 <1.0.0"
