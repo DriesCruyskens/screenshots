@@ -13,7 +13,7 @@ dependencies:
   resource: ^2.1.5
   path: ^1.6.2
   file: ^5.0.7
-  archive: ^2.0.9
+  archive: ^3.0.0
   platform: ^3.0.0
   process: ^3.0.9
   meta: ^1.1.6
