@@ -15,7 +15,7 @@ dependencies:
   file: ^5.0.7
   archive: ^3.0.0
   platform: ^3.0.0
-  process: ^3.0.9
+  process: ^4.0.0
   meta: ^1.1.6
   intl: ">=0.15.0 <1.0.0"
   tool_mobile: ^1.9.5
